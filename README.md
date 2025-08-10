@@ -1,4 +1,5 @@
 Project: Wheat Disease Classification (CNN)
+
 Task: Classify wheat leaf images into disease categories (Brown rust, Healthy, Loose Smut, Yellow rust)
 Reported accuracy: 96% (on validation/test set used during development)
 
